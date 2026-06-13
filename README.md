@@ -1,5 +1,7 @@
 # SendiPay 🌍
 
+📄 [Rapport du projet](./sendipay_rapport.pdf)
+
 Plateforme de comparaison et de suivi des transferts d'argent pour la diaspora africaine.
 
 ## Structure du projet
